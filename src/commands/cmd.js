@@ -1,5 +1,5 @@
 'use strict';
-
+//cmdlist
 const Discord = require("discord.js");
 const util = require("../util.js");
 const client = util.client
