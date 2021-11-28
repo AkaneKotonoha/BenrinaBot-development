@@ -3,7 +3,7 @@
 const Discord = require("discord.js");
 const { client, slashguild } = require("../util.js")
 const { warn } = require("../system")
-    //a
+    //aaa   
 const functions = require("../functions.js");
 
 module.exports = async function(length = 0, isNum = false) {
